@@ -28,5 +28,4 @@ Análisis del arbolado urbano de Barcelona con datos abiertos del Ayuntamiento:
 ## Tecnologías
 - Python (pandas, matplotlib, seaborn)
 - Jupyter Notebook
-- Power BI
 
